@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #23424A;
+    width: 100%;
+}
+
+.intro-container {
+    width: 50%;
+    max-width: 710px;
+    padding: 8rem 9rem;
+
+    font-family: Roboto;
+}
+
+.intro-container h1 {
+    font-weight: 900;
+    line-height: 3rem;
+    font-size: 48px;
+    padding-bottom: 2rem;
+    color: #FFFFFF;
+}
+
+.intro-container p {
+    color: #f5eeee;
+    line-height: 2rem;
+    padding-bottom: 3rem;
+    font-size: 21px;
+}
+
+.btn-intro {
+    display: inline-block;
+    padding: 1em 2.5em;
+    background-color: #38CFD9;
+    font-weight: bold;
+    font-size: 21px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #23424A;
+    border-radius: 45px;
+    text-decoration: none;
+}
